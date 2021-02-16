@@ -1,0 +1,5 @@
+package UserModel
+
+class SubjectSession {
+
+}

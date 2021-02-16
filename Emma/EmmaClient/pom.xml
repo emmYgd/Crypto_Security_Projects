@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <!--POM version-->
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>groupId</groupId>
+    <artifactId>EmmaClient</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <!--Add project repo dependencies-->
+   <!-- <pluginRepositories>
+        <pluginRepository>
+            <id>jsweet-plugins-release</id>
+            <name>plugins-release</name>
+            <url>http://repository.jsweet.org/artifactory/plugins-release-local</url>
+        </pluginRepository>
+
+        <pluginRepository>
+            <snapshots/>
+            <id>jsweet-plugins-snapshots</id>
+            <name>plugins-snapshot</name>
+            <url>http://repository.jsweet.org/artifactory/plugins-snapshot-local</url>
+        </pluginRepository>
+    </pluginRepositories>
+    -->
+
+    <build>
+        <!--Handles the java program input and output flow and how it should be compiled -->
+        <sourceDirectory>src</sourceDirectory>
+
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <fork>false</fork>
+                </configuration>
+            </plugin>
+
+            <!--
+            <plugin>
+                <groupId>org.jsweet</groupId>
+                <artifactId>jsweet-maven-plugin</artifactId>
+                <version></version>-->
+                <!--<configuration></configuration>
+                <executions>
+                    <execution>
+                        <id>generate-js</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>jsweet</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            -->
+
+        </plugins>
+
+    </build>
+
+
+    <!--Project Dependencies-->
+    <dependencies><!--Omit the <version/> tag to use latest versions-->
+        <!--J4TS-->
+        <!--
+        <dependency>
+            <groupId>org.jsweet</groupId>
+            <artifactId>j4ts</artifactId>
+            <version></version>-->
+        <!--</dependency>
+
+        JSweetCandies - Jquery-->
+        <!--<dependency>
+            <groupId>org.jsweet.candies</groupId>
+            <artifactId>jquery</artifactId>
+            <version>1.10.0-SNAPSHOT</version>-->
+        <!--</dependency>-->
+
+        <!--JSweetCandies - Promises-->
+        <!--<dependency>
+            <groupId>org.jsweet.candies</groupId>
+            <artifactId>es6-promise</artifactId>
+            <version></version>-->
+        <!--</dependency>
+
+        <dependency>
+            <groupId>org.jsweet.candies</groupId>
+            <artifactId>bigjs</artifactId>
+            <version></version>-->
+        <!--</dependency>-->
+
+    </dependencies>
+    
+</project>

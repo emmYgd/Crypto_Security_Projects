@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c02d5ab5-fa71-4beb-8a92-2a633d9e8ff1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c0acxjnp9Di4ZSQuUjGTJOBx45" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Groovy/lib" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24851367" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\CloudGuards\src" />
+      <recent name="C:\Users\user\IdeaProjects\CloudGuards\DigitalCryptoServer\src\EmmaStorage" />
+      <recent name="C:\Users\user\IdeaProjects\CloudGuards\DigitalCryptoServer\src\EmmaSecurityServer" />
+      <recent name="C:\Users\user\IdeaProjects\CloudGuards\DigitalCryptoClient\src\EmmaStorage" />
+      <recent name="C:\Users\user\IdeaProjects\CloudGuards\DigitalCryptoClient\src\EmmaSecurityClient" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c02d5ab5-fa71-4beb-8a92-2a633d9e8ff1" name="Default Changelist" comment="" />
+      <created>1589668047243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589668047243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" width="1006" height="681" key="#Project_Structure" timestamp="1589671481721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" width="1006" height="681" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589671481721" />
+    <state x="385" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589670551761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1589670551761" />
+    <state x="508" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1589671404002">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589671404002" />
+    <state x="558" y="119" key="FileChooserDialogImpl" timestamp="1589671144701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="558" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589671144701" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589671669939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589671669939" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589672760553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589672760553" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1589671987341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589671987341" />
+  </component>
+</project>
