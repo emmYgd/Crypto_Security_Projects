@@ -1,0 +1,6 @@
+import java.security.*
+import javax.crypto.*
+
+ KeyGenerator SecretKeyGen = KeyGenerator?.getInstance("ARCFOUR")
+ SecretKeyGen?.init(1024, new SecureRandom())
+return SecretKeyGen?.generateKey() 

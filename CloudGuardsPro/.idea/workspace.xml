@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4833fd1a-fede-4ed0-a9fb-b9c3e95ed324" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CloudGuardsPro" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="DigitalSecurityServer" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_5.groovy" />
+        </Entry>
+        <Entry>
+          <option name="moduleName" value="DigitalSecurityServer" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_4.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModulesForAggregators" value="false" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11 (2)" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cPWJUO1XUwLxLAxYKKHV0SZgfk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11 (2)" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Groovy/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4597938" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\CloudGuardsPro\DigitalSecurityServer\src\EmmaStorage" />
+    </key>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4833fd1a-fede-4ed0-a9fb-b9c3e95ed324" name="Default Changelist" comment="" />
+      <created>1590430640735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590430640735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="14" width="1259" height="714" key="#Project_Structure" timestamp="1592177127125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="14" width="1259" height="714" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1592177127125" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592183040712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592183040712" />
+    <state x="334" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590827714158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590827714158" />
+    <state x="500" y="279" width="365" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1590434690359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="279" width="365" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.728@0.0.1366.728" timestamp="1590434690359" />
+    <state x="380" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592178269606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1592178269606" />
+    <state x="366" y="224" width="633" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592690272803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="224" width="633" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1592690272803" />
+    <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590566183276">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1590566183276" />
+    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1590563387684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590563387684" />
+    <state x="412" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592566230268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1592566230268" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1590434843510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590434843510" />
+    <state width="1325" height="179" key="GridCell.Tab.0.bottom" timestamp="1590827833774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590827833774" />
+    <state width="1325" height="179" key="GridCell.Tab.0.center" timestamp="1590827833774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590827833774" />
+    <state width="1325" height="179" key="GridCell.Tab.0.left" timestamp="1590827833774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590827833774" />
+    <state width="1325" height="179" key="GridCell.Tab.0.right" timestamp="1590827833774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590827833774" />
+    <state x="206" y="100" key="IDE.errors.dialog" timestamp="1590452146902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="206" y="100" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1590452146902" />
+    <state x="99" y="2" width="1180" height="708" key="SettingsEditor" timestamp="1592182704343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="99" y="2" width="1180" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592182704343" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1592684316308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592684316308" />
+    <state x="389" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590952338584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="20" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1590952338584" />
+    <state x="0" y="0" key="new project wizard" timestamp="1592178256975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592178256975" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591970358146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591970358146" />
+    <state x="275" y="24" key="scopes" timestamp="1592174171970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1592174171970" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592553630092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592553630092" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="CloudGuardsPro" type="b2602c69:ProjectViewProjectNode" />
+        <item name="DigitalSecurityClient" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="CloudGuardsPro" type="b2602c69:ProjectViewProjectNode" />
+        <item name="DigitalSecurityMiddleWare" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="CloudGuardsPro" type="b2602c69:ProjectViewProjectNode" />
+        <item name="DigitalSecurityServer" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SecurityClient/SecurityClient.iml" filepath="$PROJECT_DIR$/SecurityClient/SecurityClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecurityServer/SecurityServer.iml" filepath="$PROJECT_DIR$/SecurityServer/SecurityServer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIgitalSecurityMiddleWare/DIgitalSecurityMiddleWare.iml" filepath="$PROJECT_DIR$/DIgitalSecurityMiddleWare/DIgitalSecurityMiddleWare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitalSecurityClient/DigitalSecurityClient.iml" filepath="$PROJECT_DIR$/DigitalSecurityClient/DigitalSecurityClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitalSecurityServer/DigitalSecurityServer.iml" filepath="$PROJECT_DIR$/DigitalSecurityServer/DigitalSecurityServer.iml" />
+    </modules>
+  </component>
+</project>
