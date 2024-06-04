@@ -1,2 +1,2 @@
-# Crypto_Security_Projects
-Java/Groovy Based infrastructure for digital security. Symmetric and asymmetric cryptography, Hash functions, digital signature, Concurrency, etc. Built as part of a digital security product. 
+# IOT-centric Server Project
+A part of Java/Groovy IOT-centric server infrastructure . Networking, Cryptography,Concurrency, etc. Was later overlaid on the MQTT protocol. 
